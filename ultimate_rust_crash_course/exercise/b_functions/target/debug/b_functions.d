@@ -1,0 +1,1 @@
+C:\Users\tiffa\Desktop\Workspace\rust-crash-course\ultimate_rust_crash_course\exercise\b_functions\target\debug\b_functions.exe: C:\Users\tiffa\Desktop\Workspace\rust-crash-course\ultimate_rust_crash_course\exercise\b_functions\src\main.rs
